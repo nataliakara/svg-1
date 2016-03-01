@@ -1,29 +1,18 @@
-# svg
+# ericasvg
 ## Drawing on the Web SVG projects 
 ### Spring 2016 
 ----------------
 
-This is line 1.
+I forked Erica's SVG project using GitHub.
 
-This is line 2.
+Her icon was an image of herself with the initials of her blog.
 
-My mother always told me . . . 
+I used illustrator and decided to change it up by adding more colors, dimensions,text.
 
-> Look both ways before crossing the street 
 
-*This text is Italic*
-**This text is Bold**
+*This text is Boldc*
+**This text is italic**
 
-**Everyone _must_ attend the meeting**
 
-* Item 1
-* Item 2
-* Item 3
-- Item 4
-- Item 5
-
-1. Item
-2. Item
-3. Item
 
 [Drawing on the Web](http://cs.nyu.edu/courses/spring16/CSCI-UA.0380-002/)
