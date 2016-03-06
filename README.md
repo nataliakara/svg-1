@@ -10,7 +10,7 @@ Her icon was an image of herself with the initials of her blog.
 I used illustrator and decided to change it up by adding more colors, dimensions,text.
 
 
-*This text is Boldc*
+*This text is Bold*
 **This text is italic**
 
 
